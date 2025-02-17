@@ -1,0 +1,16 @@
+.toggle {
+  display: flex;
+  padding: 4px 5px;
+  border-radius: 24px;
+  gap: 8px;
+  border: 0;
+  background-color: var(--bg-toggle);
+  transition: 0.3s ease-in-out;
+}
+
+.circle {
+  background-color: var(--bg-color);
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}

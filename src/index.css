@@ -2,6 +2,7 @@
   --bg-color: #fff;
   --text-color: #000;
   --border-color: #E6E6E6;
+  --bg-toggle: #D5D5D5;
   
   --separator-color: #5A5A5A;
 }
@@ -10,6 +11,7 @@
   --bg-color: #000;
   --text-color: #fff;
   --border-color: #5A5A5A;
+  --bg-toggle: #343434;
 }
 
 * {
